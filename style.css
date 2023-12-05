@@ -1,0 +1,40 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+  
+    padding: 20px;
+}
+body{
+    background-color: #1E1928;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+span{
+    padding: 0;
+    margin: 0;
+}
+
+.example {
+    max-width: 400px;
+}
+
+.red {
+    color: #DE4371;
+}
+.light{
+    color: rgb(198, 252, 232);
+     
+}
+
+.violet{
+    color: #8C92FC;
+}
+
+.light-blue{
+    color: #65CDED;
+}
+
+#wrapper{
+    margin-left: 20px;
+}
